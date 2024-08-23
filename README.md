@@ -1,4 +1,3 @@
-# About-us
 <h1 align="center">Hi 👋, I'm Sonu Verma</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 

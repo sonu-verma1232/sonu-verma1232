@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonu-verma1232&label=Profile%20views&color=0e75b6&style=flat" alt="sonu-verma1232" /> </p>
 
-- 🌱 I’m currently learning **Advance Java**
+- 🌱 I’m currently learning **Spring Boot Framework and React**
 
 - 📫 How to reach me **sonuverma282003@gmail.com**
 
